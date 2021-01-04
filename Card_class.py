@@ -28,7 +28,8 @@ class Card():
 
     def getValue(self):
         print('Get the value of the card here')
-
+        pass
+    
     def draw(self):
         print('Draw the card here')
 
